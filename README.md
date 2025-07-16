@@ -1,7 +1,5 @@
 # Achieving Robust Channel Estimation Neural Networks by Designed Training Data
 
-# Channelformer: Attention based Neural Solution for Wireless Channel Estimation and Effective Online Training 
-
 https://ieeexplore.ieee.org/document/10048783
 
 Code for Luan, Dianxin, and John Thompson. "Achieving Robust Channel Estimation Neural Networks by Designed Training Data." IEEE Transactions on Cognitive Communications and Networking (2025). 
