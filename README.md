@@ -27,11 +27,10 @@ In this paper, we propose an encoder-decoder neural architecture (called Channel
 
 %% File +Training has 
 
-		ResNN_pilot_regression to train the ReEsNet and InterpolateNet. 
-		Training_hybrid_channelformer to train online Channelformer. 
-		Training_hybrid_offline to train offline Channelformer. 
-		Training_Transformer to train TR structure. 
-		Online_training offer a chance to train the neural network with sufficient samples, to adjust these samples with 10 epoch. 
+		ResNN_pilot_regression to train the InterpolateNet and SimpleNet for default pilot pattern. 
+  		ResNN_pilot_regression_Alternative to train the InterpolateNet and SimpleNet for alternative pilot pattern. 
+		Training_hybrid_offline to train Channelformer. 
+  		Training_hybrid_offline_Alternative to train Channelformer for alternative pilot pattern. 
 
 %% File +parameter has 
 
