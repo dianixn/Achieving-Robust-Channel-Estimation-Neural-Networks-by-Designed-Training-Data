@@ -34,10 +34,10 @@ In this paper, we propose an encoder-decoder neural architecture (called Channel
 
 %% File +parameter has 
 
-		parameters contains the system parameters for generating the training data and testing on the extended SNR
-		parameters_doppler contains the system parameters for testing on the extended Doppler shift
-		parameters_residual_neural_network contains the hyperparameters for the decoder
-		parameters_online_average contains the hyperparameters for online training
+		parameters contains the system parameters for generating the training data and testing on the default pilot pattern on sub-6 band. 
+		parameters_alternative contains the system parameters for generating the training data and testing on the alternative pilot pattern on sub-6 band. 
+		parameters_hybrid contains the hyperparameters for Channelformer. 
+		parameters_Millimeterwave contains the hyperparameters for CDL/TDL channels operating on Millimeter-wave band (39GHz). 
 
 %% File +Channel contains 
 
