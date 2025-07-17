@@ -72,20 +72,6 @@ In this paper, we propose an encoder-decoder neural architecture (called Channel
 		Interpolation_ResNet - Untrained InterpoalteNet (WSA paper)
 		SimpleNet - 882 parameters neural networks
 
-%% File +transformer_HA02 contains 
-
-		model_transformer - system model for TR
-		model - system model for HA02
-			Encoder_block - the encoder of HA02 
-			Decoder_block - the decoder of HA02
-		+layer contains the layer modules for attanetion mechanism and residual convolutional neural network
-			normalization - layer normalization
-			FC1 - fully-connected layer
-			gelu - Activation function of GeLu
-			multiheadAttention - multihead attention module, which calcualte the attention from Q, K and V
-			attention - main control unite of the multiohead attention module, designed by tranformer encoder
-			FeedforwardNN - feedforward neural network designed by tranformer encoder
-
 %% File +transformer contains Channelformer code 
 
 		model - system model for Channelformer
