@@ -71,7 +71,7 @@ In this paper, we propose an encoder-decoder neural architecture (called Channel
 
 		Interpolation_ResNet - Untrained InterpoalteNet (WSA paper)
 		SimpleNet - 882 parameters neural networks
-
+  
 %% File +transformer contains Channelformer code 
 
 		model - system model for Channelformer
