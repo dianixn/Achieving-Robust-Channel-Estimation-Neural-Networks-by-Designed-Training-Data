@@ -67,6 +67,18 @@ In this paper, we propose an encoder-decoder neural architecture (called Channel
 		QPSK_Modualtor - generate QPSK symbols 
 		QPSK_Demodulator - decode the received QPSK signals
 
+%% File +Performance_plot contains
+
+  		Plot_Alternative - plot function. 
+    		Plot_Appendix - plot function. 
+      		Plot_BER - plot function. 
+		Plot_HA02 - plot function. 
+  		Plot_InterpolateNet - plot function. 
+    		Plot_N_f - plot function. 
+      		Plot_SimpleNet - plot function. 
+		Plot_batch - plot function. 
+  		Plot_generalization - plot function. 
+
 %% File Residual_NN contains 
 
 		Interpolation_ResNet - Untrained InterpoalteNet (WSA paper)
