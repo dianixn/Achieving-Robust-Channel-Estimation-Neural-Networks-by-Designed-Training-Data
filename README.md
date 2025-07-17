@@ -67,13 +67,6 @@ In this paper, we propose an encoder-decoder neural architecture (called Channel
 		QPSK_Modualtor - generate QPSK symbols 
 		QPSK_Demodulator - decode the received QPSK signals
 
-%% File +Pruning has
-
-		Encoder_Pruning - used to prune the encoder of Channelformer, which is part of the code for Hybrid_Pruning for initial test
-		Hybrid_Pruning - used to prune the Channelformer
-		Fine-tuning - used to fine-tune the pruned neural networks
-		Residual_NN_Pruning - used to prune DAG network (trained InterpolateNet and ReEsNet) only 
-
 %% File Residual_NN contains 
 
 		Interpolation_ResNet - Untrained InterpoalteNet (WSA paper)
