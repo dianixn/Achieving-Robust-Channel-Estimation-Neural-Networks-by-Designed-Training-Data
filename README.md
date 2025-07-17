@@ -41,10 +41,9 @@ In this paper, we propose an encoder-decoder neural architecture (called Channel
 
 %% File +Channel contains 
 
-		Rayleigh_fading_channel is a theoretical Rayleigh fading channel
 		Propagation_Channel_Model is a LTEfading channel developed by MATLAB specificed in https://uk.mathworks.com/help/lte/ref/ltefadingchannel.html. 
-		We use generalized method of exact Doppler spread method for channel modelling. 
-		Propagation_Channel_Model_Online is the channel set for the online training 
+  		CDL_Channel contains 3GPP TS38.901 CDL channel - nrCDLChannel object. 
+    		TDL_Channel contains 3GPP TS38.901 TDL channel - nrTDLChannel object. 
 
 %% File +CSI has
 
