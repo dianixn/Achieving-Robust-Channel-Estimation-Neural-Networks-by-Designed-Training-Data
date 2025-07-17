@@ -49,7 +49,6 @@ In this paper, we propose an encoder-decoder neural architecture (called Channel
 
 		LS - It is the implementation of the LS method and the time interpolation method is bilinear method. 
 		MMSE - It is the linear MMSE method and the time interpolation method is bilinear method. 
-		MMSE_Uniform_PDP - It is the estimate sMMSE method, which is how we generate the MMSE label for online training
 
 %% File +Data_Generation contains
 
