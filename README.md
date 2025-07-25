@@ -15,8 +15,6 @@ Cite as:
   	keywords={Neural networks;Channel estimation;Training;OFDM;Symbols;Time-domain analysis;Delays;Matrix converters;Fast Fourier transforms;Estimation;Channel estimation;generalization;neural network;orthogonal frequency division multiplexing (OFDM)},
   	doi={10.1109/TCCN.2025.3592299}}
 
-
-
 %%%
 
 Abstract:
