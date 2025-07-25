@@ -4,16 +4,17 @@ Code for Luan, Dianxin, and John Thompson. "Achieving Robust Channel Estimation 
 
 Cite as: 
 
-	@ARTICLE{10048783,
-  	author={Luan, Dianxin and Thompson, John S.},
-  	journal={IEEE Transactions on Wireless Communications}, 
-  	title={Channelformer: Attention Based Neural Solution for Wireless Channel Estimation and Effective Online Training}, 
-  	year={2023},
-  	volume={22},
-  	number={10},
-  	pages={6562-6577},
-  	keywords={Training;Neural networks;Channel estimation;Symbols;Wireless communication;OFDM;Delays;Channel estimation;attention mechanism;self-attention mechanism;online learning;deep learning;orthogonal frequency division multiplexing (OFDM)},
-  	doi={10.1109/TWC.2023.3244484}}
+	@ARTICLE{11096086,
+  	author={Luan, Dianxin and Thompson, John},
+  	journal={IEEE Transactions on Cognitive Communications and Networking}, 
+  	title={Achieving Robust Channel Estimation Neural Networks by Designed Training Data}, 
+  	year={2025},
+  	volume={},
+  	number={},
+  	pages={1-1},
+  	keywords={Neural networks;Channel estimation;Training;OFDM;Symbols;Time-domain analysis;Delays;Matrix converters;Fast Fourier transforms;Estimation;Channel estimation;generalization;neural network;orthogonal frequency division multiplexing (OFDM)},
+  	doi={10.1109/TCCN.2025.3592299}}
+
 
 
 %%%
