@@ -104,3 +104,7 @@ Channel estimation is crucial in wireless communications. However, in many paper
 %%% Comments 
 
 Run with MATLAB, with fully-installed deep learning toolbox because it requires customized training. 
+
+%%% Acknowledgement
+
+This research is supported by EPSRC projects EP/X04047X/2 and EP/Y037243/1 (TITAN project). 
