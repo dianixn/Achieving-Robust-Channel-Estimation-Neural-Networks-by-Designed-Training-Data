@@ -2,6 +2,8 @@
 
 Code for Luan, Dianxin, and John Thompson. "Achieving Robust Channel Estimation Neural Networks by Designed Training Data." IEEE Transactions on Cognitive Communications and Networking (2025). 
 
+If you need a designed training dataset for a certain wireless scenarios please drop me an email at dianxin.luan@ed.ac.uk and we can discuss. 
+
 Cite as: 
 
 %%%
