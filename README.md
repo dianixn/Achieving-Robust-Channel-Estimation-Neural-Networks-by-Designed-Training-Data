@@ -6,17 +6,6 @@ If you need a designed training dataset for a certain wireless scenarios please 
 
 Cite as: 
 
-	@ARTICLE{11096086,
-  	author={Luan, Dianxin and Thompson, John},
-  	journal={IEEE Transactions on Cognitive Communications and Networking}, 
-  	title={Achieving Robust Channel Estimation Neural Networks by Designed Training Data}, 
-  	year={2025},
-  	volume={},
-  	number={},
-  	pages={1-1},
-  	keywords={Neural networks;Channel estimation;Training;OFDM;Symbols;Time-domain analysis;Delays;Matrix converters;Fast Fourier transforms;Estimation;Channel estimation;generalization;neural network;orthogonal frequency division multiplexing (OFDM)},
-  	doi={10.1109/TCCN.2025.3592299}}
-
 %%%
 
 Abstract:
