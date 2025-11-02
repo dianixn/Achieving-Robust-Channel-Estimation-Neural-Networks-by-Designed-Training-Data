@@ -2,7 +2,7 @@
 
 Code for Luan, Dianxin, and John Thompson. "Achieving Robust Channel Estimation Neural Networks by Designed Training Data." IEEE Transactions on Cognitive Communications and Networking (2025). 
 
-If you need a designed training dataset for a certain wireless scenarios please drop me an email at dianxin.luan@ed.ac.uk and we can discuss. 
+If you need a designed training dataset for a certain wireless scenarios please drop me an email at dianxin.luan@ed.ac.uk and we can discuss then. 
 
 Cite as: 
 
@@ -45,7 +45,7 @@ Channel estimation is crucial in wireless communications. However, in many paper
 
 		Propagation_Channel_Model is a LTEfading channel developed by MATLAB specificed in https://uk.mathworks.com/help/lte/ref/ltefadingchannel.html. 
   		CDL_Channel contains 3GPP TS38.901 CDL channel - nrCDLChannel object. 
-    		TDL_Channel contains 3GPP TS38.901 TDL channel - nrTDLChannel object. 
+    	TDL_Channel contains 3GPP TS38.901 TDL channel - nrTDLChannel object. 
 
 %% File +CSI has
 
@@ -72,12 +72,12 @@ Channel estimation is crucial in wireless communications. However, in many paper
 %% File +Performance_plot contains
 
   		Plot_Alternative - plot function. 
-    		Plot_Appendix - plot function. 
-      		Plot_BER - plot function. 
+    	Plot_Appendix - plot function. 
+      	Plot_BER - plot function. 
 		Plot_HA02 - plot function. 
   		Plot_InterpolateNet - plot function. 
-    		Plot_N_f - plot function. 
-      		Plot_SimpleNet - plot function. 
+    	Plot_N_f - plot function. 
+      	Plot_SimpleNet - plot function. 
 		Plot_batch - plot function. 
   		Plot_generalization - plot function. 
 
