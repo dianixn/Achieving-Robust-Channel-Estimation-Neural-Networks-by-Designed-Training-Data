@@ -6,6 +6,14 @@ If you need a designed training dataset for a certain wireless scenarios please 
 
 Cite as: 
 
+	@article{luan2025achieving,
+  	title={Achieving Robust Channel Estimation Neural Networks by Designed Training Data},
+  	author={Luan, Dianxin and Thompson, John},
+  	journal={IEEE Transactions on Cognitive Communications and Networking},
+  	year={2025},
+  	publisher={IEEE}
+	}
+
 %%%
 
 Abstract:
