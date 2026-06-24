@@ -4,8 +4,6 @@ Code for Luan, Dianxin, and John Thompson. "Achieving Robust Channel Estimation 
 
 This work is featured by MIT technique review China at https://www.mittrchina.com/news/detail/15271. 
 
-If you need a designed training dataset for a certain wireless scenarios please drop me an email at dianxin.luan@ed.ac.uk and we can discuss then. 
-
 Cite as: 
 
 	@article{luan2025achieving,
