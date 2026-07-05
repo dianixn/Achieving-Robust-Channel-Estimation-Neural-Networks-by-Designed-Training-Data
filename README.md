@@ -110,8 +110,8 @@ This research is supported by EPSRC projects EP/X04047X/2 and EP/Y037243/1 (TITA
 
 %%% Previous submission 
 
-To Tcom and some interesting comments as: 
-Esepcially for reviewer 3, I am not sure if reviewer 3 does understand this a little bit or completely lost itself but appreaciate his reading :) 
+To Tcom and some very interesting comments as: 
+It is funny enough, especially for reviewer 3. 
 
 Reviewer: 1
 
